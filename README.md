@@ -26,9 +26,13 @@ https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer or https
 
 ---
 
+```sh
+
 create ./src/app.d.ts -> generate env prisma exist/ new
 create ./src/lib/server/prisma.ts -> generate env prisma exist/ new
 delete ./src/lib/server/prisma.js <---- bug connection prisma.js , because using .ts 
+
+```
 
 ---
 
@@ -47,10 +51,14 @@ for visual studio code : CTRL+SHIFT+P "simple browser"  http://localhost:5173/
 
 ---
 
+```sh
+
 create ./src/routes/+page.svelte      -->    import type { PageData } from './$types', <form action="?/createArticle" method="POST">  , <form action="?/deleteArticle&id={article.id}" method="POST">
 create ./src/routes/+page.server.ts   -->     load, createArticle, deleteArticle
 create ./src/routes/src/[articleId]/+page.svelte     --> import type { PageData } from './$types' , <form action="?/updateArticle" method="POST">
 create ./src/routes/src/[articleId]/+page.server.ts  --> load, getArticle, updateArticle
+
+```
 
 ---
 
