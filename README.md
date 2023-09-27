@@ -62,11 +62,11 @@ create ./src/routes/src/[articleId]/+page.server.ts  --> load, getArticle, updat
 
 ---
 
-
 reference : https://www.youtube.com/watch?v=E9J2VXd-bzE&ab_channel=Huntabyte
 
+## EKI INDRADI
+"TIME > KNOWLEDGE > MONEY". #2024_3_DIGIT_MOTIVATION
 
----
 
 
 # create-svelte
@@ -109,5 +109,4 @@ You can preview the production build with `npm run preview`.
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
 
 
-## EKI INDRADI
-"TIME > KNOWLEDGE > MONEY". #2024_3_DIGIT_MOTIVATION
+
