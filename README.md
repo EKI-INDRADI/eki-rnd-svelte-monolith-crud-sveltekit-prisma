@@ -1,6 +1,6 @@
 # 2023 CRUD SVELTE (MONOLITH), SVELTE-KIT & PRISM | EKI INDRADI DOCUMENTATION RND
 
-# ---------- PRISMA
+# PRISMA
 
 ```sh
 npm i prisma
@@ -13,17 +13,15 @@ npx prisma db push  --> auto generate database & schema (file:./dev.sqlite -> ./
 
 ```
 
-# ---------- /PRISMA
+---
 
-# ---------- TOOLS
+## TOOLS
 
 visual studio code ext / tools : 
 
 https://marketplace.visualstudio.com/items?itemName=Prisma.prisma
 
 https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer or https://dbeaver.io/files/dbeaver-ce-latest-win32.win32.x86_64.zip (PORTABLE)
-
-# ---------- TOOLS
 
 ---
 
